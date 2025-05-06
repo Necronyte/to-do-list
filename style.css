@@ -160,4 +160,8 @@ input:focus{
     .icon-container{
         margin-left: -10px;
     }
+
+    button{
+        width: 6rem;
+    }
 }
